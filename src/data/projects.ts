@@ -64,12 +64,12 @@ export const projects: Project[] = [
 
 /** Prefer your real Upwork profile URL when you have it. */
 export const upworkUrl =
-  "https://www.upwork.com/nx/search/talent/?q=Rebecca%20Mansell";
+  "https://www.upwork.com/nx/search/talent/?q=Sean%20Willis";
 
 export const linkedInUrl = "https://www.linkedin.com/in/sean-willis-bb6704449/";
 
 export const profile = {
-  name: "Rebecca Mansell",
+  name: "Sean Willis",
   role: "AI Full-Stack Developer",
   focus: "Web · Shopify · SaaS",
   support:
